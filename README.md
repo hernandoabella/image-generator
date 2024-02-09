@@ -1,1 +1,1 @@
-# generador-de-imagenes-aleatorias
+# image-generator
